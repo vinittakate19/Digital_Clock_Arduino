@@ -48,3 +48,6 @@ Add Bluetooth/Serial time sync
 
 📜 License
 MIT License
+
+
+https://www.linkedin.com/posts/vinit-takate-815939252_arduino-digitalclock-embeddedsystems-activity-7341830459275821057-EsWQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5uQFEBSlHJUOZNCuPio20o-1n93C2tNCI
